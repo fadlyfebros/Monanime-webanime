@@ -8,7 +8,7 @@ import Providers from './providers';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Home | Nownime',
+  title: 'Home | Monanime',
   description: 'Stream any movie',
 }
 

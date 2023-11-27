@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="h-screen px-3 py-4 overflow-y-auto bg-gray-50 dark:bg-gray-800">
         <a href="#" className="flex items-center pl-2.5 mb-5">
           <MdOutlineStreetview className='text-5xl text-green-500' />
-          <span className="self-center text-3xl font-semibold whitespace-nowrap dark:text-white">Nownime</span>
+          <span className="self-center text-3xl font-semibold whitespace-nowrap dark:text-white">Monanime</span>
         </a>
         <ul className="space-y-3 pl-5">
           <p>Menu</p>
